@@ -37,7 +37,7 @@ Me llamo **Nacho Gallardo**, tengo 25 años y soy un apasionado de la programaci
 
 #### **IDEs y Herramientas de Desarrollo:**
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)  
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)  
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white)   
 
 #### **Otros:** 
 - **Manipulación de imágenes** para proyectos visuales.  
