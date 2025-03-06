@@ -72,8 +72,9 @@ Me llamo **Nacho Gallardo**, tengo 25 años y soy un apasionado de la programaci
 
    [Control de Alquiler de Coches - Repositorio GitHub](https://github.com/ngallardo4/Projecte2_Grup1)
 
-3. **Sistema de Gestión de Pacientes e Informes**
+3. **Sistema de Gestión de Pacientes e Informes**   
    Este proyecto es una aplicación móvil para Android destinada a la gestión de usuarios, pacientes e informes clínicos. El objetivo es ofrecer una herramienta eficiente para los profesionales de la salud, facilitando el registro, seguimiento y administración de pacientes y sus informes clínicos.
+   
    **Tecnologías utilizadas:**
    - **Frontend Mobile**: Desarrollado en Kotlin utilizando Jetpack Compose para la UI y siguiendo la arquitectura MVVM con StateFlow para la gestión del estado..  
    - **Backend**: Implementado en Spring Boot, proporcionando servicios REST para manejar los datos. 
