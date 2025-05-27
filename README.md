@@ -88,6 +88,28 @@ Me llamo **Nacho Gallardo**, tengo 25 años y soy un apasionado de la programaci
    - **Generación Automática de Informes clínicos:** Generación de los informes de los pacientes mediante PDF.
 
    [ClinDat - Repositorio GitHub](https://github.com/ngallardo4/Clindat.git)
+
+   5. **Invasión Enemiga**
+   Un proyecto desarrollado con Unity para crear un videojuego de defensa con vista cenital.  
+   El jugador debe resistir oleadas de enemigos que atacan desde distintos puntos del mapa, proteger la base y eliminar a todos los rivales.  
+   El juego incluye diferentes niveles de dificultad, efectos de sonido, HUD completo y compatibilidad con Windows y Linux.
+
+   **Características principales**
+
+   - **Sistema de oleadas dinámico**: Generación progresiva de enemigos según la dificultad seleccionada.
+   - **Dos modos de dificultad**: Modo normal con visibilidad total y modo difícil con "niebla de guerra".
+   - **HUD funcional**: Vida del jugador y de la base, número de enemigos restantes, munición y rondas.
+   - **Recursos y recompensas**: Recolección de munición y pociones para restaurar vida.
+   - **Sonido y opciones**: Gestión de música y efectos de sonido con opciones de activación/desactivación.
+
+
+   **Tecnologías utilizadas**
+
+   - **Unity**: Motor principal para el desarrollo del juego.
+   - **C#**: Lenguaje utilizado para implementar toda la lógica del juego.
+   - **NavMesh**: Para el movimiento y seguimiento de enemigos con IA.
+   - **Input System**: Para controlar el jugador con teclado o gamepad.
+
 ---
 
 ### 📫 **¡Contáctame!**  
