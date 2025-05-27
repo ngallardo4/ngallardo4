@@ -19,6 +19,7 @@ Me llamo **Nacho Gallardo**, tengo 25 años y soy un apasionado de la programaci
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)   
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 #### **Frontend:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
@@ -30,6 +31,7 @@ Me llamo **Nacho Gallardo**, tengo 25 años y soy un apasionado de la programaci
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)  
 ![Lombok](https://img.shields.io/badge/Lombok-FF0000?style=for-the-badge&logoColor=white)  
 ![JavaFX](https://img.shields.io/badge/JavaFX-4B8BBE?style=for-the-badge&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 #### **Bases de datos:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
@@ -37,7 +39,8 @@ Me llamo **Nacho Gallardo**, tengo 25 años y soy un apasionado de la programaci
 
 #### **IDEs y Herramientas de Desarrollo:**
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)  
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white)   
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 #### **Otros:** 
 - **Manipulación de imágenes** para proyectos visuales.  
