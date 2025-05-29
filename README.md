@@ -94,31 +94,31 @@ Me llamo **Nacho Gallardo**, tengo 25 años y soy un apasionado de la programaci
 
 4. **EntreBicis**
 
-**EntreBicis** es una aplicación multiplataforma (móvil + web) desarrollada para incentivar el uso de la bicicleta mediante rutas registradas y recompensas ecológicas.  
-Incluye una app Android para ciclistas y un panel web para administración y visualización de datos.  
-El sistema permite registrar rutas con GPS, calcular estadísticas como distancia y velocidad, generar saldo en función de los kilómetros recorridos y canjearlo por recompensas sostenibles.
+   **EntreBicis** es una aplicación multiplataforma (móvil + web) desarrollada para incentivar el uso de la bicicleta mediante rutas registradas y recompensas ecológicas.  
+   Incluye una app Android para ciclistas y un panel web para administración y visualización de datos.  
+   El sistema permite registrar rutas con GPS, calcular estadísticas como distancia y velocidad, generar saldo en función de los kilómetros recorridos y canjearlo por recompensas sostenibles.
 
-**Características principales**
+   **Características principales**
+   
+   - **Seguimiento de rutas en tiempo real (app Android)**: Captura de puntos GPS con `TrackingService`, cálculo de distancia, velocidad y duración.
+   - **Sistema de recompensas (móvil y web)**: Consulta, reserva y canjeo de recompensas según el saldo generado al pedalear.
+   - **Perfil del usuario**: Edición de datos personales, imagen de perfil y cambio de contraseña desde la app móvil.
+   - **Inicio de sesión con JWT**: Autenticación segura y persistencia de sesión en la app.
+   - **Visualización detallada de rutas**: Mapa interactivo con los puntos GPS, estadísticas y detección de velocidades fuera del rango permitido.
+   - **Parámetros del sistema configurables (web)**: Velocidad máxima, tiempo máximo de parada e índice de conversión a saldo ajustables desde el panel de administrador.
+   - **Parte web para administración**: Gestión de usuarios, recompensas, rutas y visualización detallada con Google Maps. Compatible con navegadores modernos.
+   
+   **Tecnologías utilizadas**
+   
+   - **Kotlin + Jetpack Compose**: Desarrollo del frontend móvil con arquitectura MVVM.
+   - **Java + Spring Boot**: API REST, lógica de negocio, autenticación JWT.
+   - **Thymeleaf + HTML + CSS**: Desarrollo del panel administrativo web.
+   - **MySQL**: Base de datos relacional.
+   - **Retrofit**: Cliente HTTP para la app Android.
+   - **Google Maps API**: Visualización de mapas y rutas en tiempo real.
+   - **Docker**: Contenerización del backend para despliegue en AWS u otros servicios cloud.
 
-- **Seguimiento de rutas en tiempo real (app Android)**: Captura de puntos GPS con `TrackingService`, cálculo de distancia, velocidad y duración.
-- **Sistema de recompensas (móvil y web)**: Consulta, reserva y canjeo de recompensas según el saldo generado al pedalear.
-- **Perfil del usuario**: Edición de datos personales, imagen de perfil y cambio de contraseña desde la app móvil.
-- **Inicio de sesión con JWT**: Autenticación segura y persistencia de sesión en la app.
-- **Visualización detallada de rutas**: Mapa interactivo con los puntos GPS, estadísticas y detección de velocidades fuera del rango permitido.
-- **Parámetros del sistema configurables (web)**: Velocidad máxima, tiempo máximo de parada e índice de conversión a saldo ajustables desde el panel de administrador.
-- **Parte web para administración**: Gestión de usuarios, recompensas, rutas y visualización detallada con Google Maps. Compatible con navegadores modernos.
-
-**Tecnologías utilizadas**
-
-- **Kotlin + Jetpack Compose**: Desarrollo del frontend móvil con arquitectura MVVM.
-- **Java + Spring Boot**: API REST, lógica de negocio, autenticación JWT.
-- **Thymeleaf + HTML + CSS**: Desarrollo del panel administrativo web.
-- **MySQL**: Base de datos relacional.
-- **Retrofit**: Cliente HTTP para la app Android.
-- **Google Maps API**: Visualización de mapas y rutas en tiempo real.
-- **Docker**: Contenerización del backend para despliegue en AWS u otros servicios cloud.
-
-[EntreBicis - Repositorio GitHub](https://github.com/ngallardo4/projecte4_entrebicis_android_web.git)
+   [EntreBicis - Repositorio GitHub](https://github.com/ngallardo4/projecte4_entrebicis_android_web.git)
 ---
 
 6. **Invasión Enemiga**
